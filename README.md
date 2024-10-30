@@ -20,4 +20,4 @@ Hey there! 👋<br>I'm a B.Tech student in Computer Science and Engineering with
 
 
 
-![snake gif](https://github.com/vashu-aggarwal/vashu-aggarwal/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/vashu-aggarwal/vashu-aggarwal/blob/output/github-snake.svg)
